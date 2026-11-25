@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/assets/coppershears/icon.png" width="128" alt="icon"></p>
+
 # Copper Shears
 
 Shears made of copper. They work everywhere vanilla shears do, but wear out sooner.
