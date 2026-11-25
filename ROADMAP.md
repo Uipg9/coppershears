@@ -1,6 +1,7 @@
 # Copper Shears roadmap
 
 ## Done
+- 1.0.1: recipe unlock advancement so the recipe shows in the recipe book (unit test guards every recipe).
 - Item `coppershears:copper_shears` (ShearsItem, vanilla shears Tool component, durability 150, copper repair).
 - Shaped recipe (2 copper ingots diagonal), creative tab after vanilla shears, lang, texture + item model.
 - Identity compat: `ItemStackMixin` makes `stack.is(Items.SHEARS)` true for copper shears, covering every
